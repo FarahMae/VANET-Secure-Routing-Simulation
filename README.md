@@ -20,7 +20,8 @@ It implements SHA-256 based hashing for message integrity and detects cyber atta
 ## 📊 Simulation Output
 
 ### SHA-256 Hash Time per Message  
-![Hash Time](screenshots/sha256_hash_time_graph.png)
+![Hash Time](sha256_hash_time_graph.png)
+![Replay Attack](replay_attack_output.png)
 
 ### Replay Attack Detection  
 ![Replay Attack](screenshots/replay_attack_output.png)
